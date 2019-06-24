@@ -1,8 +1,8 @@
 UniClipboard20xx
 ===
 
-Clipboard for Unity2017
-*2018.1移行はGUIUtility.systemCopyBufferを使ってください*
+- Clipboard for Unity2017
+- *2018.1以降はGUIUtility.systemCopyBufferを使ってください*
 
 Require
 ===
